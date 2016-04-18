@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Aspire Pharmacy 2]]></title>
+        <description><![CDATA[Aspire Pharmacy 2]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Apr 2016 20:32:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Has your pharmacist ever called to check on you?]]></title>
+            <description><![CDATA[<article><h1>Has your pharmacist ever called to check on you?</h1><p>Our team of health-care professionals are taking a different approach to your health care. Instead of store-wide perfume counters or racks of potato chips, soft drinks and magazines, we want to give you what we think you want most: personalized health-care service that will give you a better life and allow you to be less dependent on medications.</p></article>]]></description>
+            <link>undefinedhas-your-pharmacist-ever-called-to-check-on-you/index.html</link>
+            <guid isPermaLink="false">67a98d0a-90ae-4c94-994a-267a3c5f59d6</guid>
+            <pubDate>Mon, 18 Apr 2016 20:31:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
